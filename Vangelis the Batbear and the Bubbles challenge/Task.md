@@ -37,6 +37,7 @@ For each test case you will have to write one line that contains an integer, in 
 
 There can be multiple edges or self-loops. In this case we consider the graph to contain a loop.
 
+## Example
 
 #### Input
 ```
