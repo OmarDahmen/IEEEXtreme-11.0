@@ -7,3 +7,17 @@ Here is some of our submissions!
 
 You will find the score of every task in the first line of the corresponding Solution file.
 
+Rank
+Team
+Score (Penalty)
+University
+Region
+
+861	ImagineDragons	271.45 (4494)	National Engineering School of Sfax (ENIS)	(R8) Africa, Europe, Middle East
+
+
+861/3350  Top 1000
+43/279  Top 50
+2/..
+
+
