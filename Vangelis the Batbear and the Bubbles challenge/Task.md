@@ -5,8 +5,8 @@ https://github.com/OmarDahmen/IEEEXtreme-11.0/blob/master/XtremeLogo.svg
 
 # Vangelis the Batbear and the Bubbles challenge
 
- * Time limit: 1280 ms
- * Memory limit: 264 MB
+ > Time limit: 1280 ms
+ > Memory limit: 264 MB
 
 Good evening master Wayne.
 
@@ -30,10 +30,10 @@ For each test case, there will be 22 input lines:
 For each test case you will have to write one line that contains an integer, in the case where there is a loop you will write the number 11 or else you will write the number 00.
 
 ## Constraints and notes
- * 1≤t≤1000 
- * 1≤n≤1000 
- * 1≤m≤10000 
- * 0≤a,b≤n−1 
+ * ` 1 ≤ t ≤ 1000 ` 
+ * ` 1 ≤ n ≤ 1000 ` 
+ * ` 1 ≤ m ≤ 10000 ` 
+ * ` 0 ≤ a,b ≤ n−1 ` 
 
 There can be multiple edges or self-loops. In this case we consider the graph to contain a loop.
 
