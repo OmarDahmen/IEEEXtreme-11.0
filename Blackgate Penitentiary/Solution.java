@@ -1,4 +1,5 @@
-// Don't place your source in a package
+// Score : 100%
+
 import java.util.*;
 import java.lang.*;
 import java.io.*;
@@ -51,8 +52,6 @@ class Main {
 	       
 	   System.out.println((++count)+" "+(count+nameList.size()-1));
 	   count+= nameList.size()-1;
-	   
-	  // System.out.println();
 	       
 	   }
 	}

@@ -6,7 +6,8 @@ https://github.com/OmarDahmen/IEEEXtreme-11.0/blob/master/XtremeLogo.svg
 # Blackgate Penitentiary
 
  > Time limit: 1280 ms
- > Memory limit: 264 MB
+ > 
+ >  Memory limit: 264 MB
 
 Vangelis the Batbear trapped all the members of Joker's Streetgang in a basement.
 
@@ -22,8 +23,8 @@ On the output, there will be gg lines. Each line will contain in alphabetical or
 
 ## Constraints and notes
  * ` 1 ≤ n ≤ 1000 ` 
- * ` 1 ≤ n ≤ 10 ` 
- * ` 120 ≤ hi ≤ 250 ` 
+ * ` 1 ≤ length(s(i)) ≤ 10 ` 
+ * ` 120 ≤ h(i) ≤ 250 ` 
  * Names are only composed of characters of the Latin alphabet.
 
 ## Example

@@ -6,7 +6,8 @@ https://github.com/OmarDahmen/IEEEXtreme-11.0/blob/master/XtremeLogo.svg
 # Vangelis the Batbear and the Bubbles challenge
 
  > Time limit: 1280 ms
- > Memory limit: 264 MB
+ > 
+ >  Memory limit: 264 MB
 
 Good evening master Wayne.
 
