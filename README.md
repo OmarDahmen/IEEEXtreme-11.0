@@ -7,7 +7,7 @@ https://github.com/OmarDahmen/IEEEXtreme-11.0/blob/master/XtremeLogo.svg
 IEEEXtreme is a global challenge in which teams of student members, supported by an IEEE Student Branch, advised and proctored by an IEEE Member, compete in a 24-hour time span, starting on October 14, 2017 at 00:00 UTC and ending at 23:59 UTC, against each other to solve a set of programming problems.
 
 ## Our Participation
-I participated in this competition with some freinds. The team name was "ImagineDragons". We had other ... so we couldn't participate effectively
+I participated in this competition with some freinds. The team name was "ImagineDragons". We were busy at the time of the competition, so we participated partially and tried to solve some problems.
 
 Here is the result, and some of our submissions!
 ## Team Result
